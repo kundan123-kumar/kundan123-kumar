@@ -1,6 +1,12 @@
 ### Hi there 👋 
 I m Kundan Kumar
 
+- 🌱 I’m currently learning **Web Dev, Node**
+
+- 💬 Ask me about **Cpp, DSA , Problem Solving**
+
+- 📫 How to reach me **sajankumarbth2002@gmail.com**
+
 <!--
 **kundan123-kumar/kundan123-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
